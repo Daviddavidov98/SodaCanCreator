@@ -6,4 +6,5 @@ To use the program:
   - run “node index.js” 
   - open your preferred browser and go to http://localhost:3000 
 
-<iframe src="https://giphy.com/embed/KGeW1969tDa7hHEYq0" width="480" height="292" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KGeW1969tDa7hHEYq0">via GIPHY</a></p>
+
+![](sodacancreator.gif)
